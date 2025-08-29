@@ -2,7 +2,7 @@
 
 A modern, responsive productivity dashboard built with Next.js, React, and AI integration. Organize tasks, manage projects, create mind maps, and boost productivity with intelligent features.
 
-![Wideboard Hero](https://i.ibb.co/nsXrzMkL/image.png)
+![Wideboard Hero](https://raw.githubusercontent.com/abdvlrqhman/wideboard/refs/heads/main/assets/images/image.png)
 
 > **A Spacie Original Project** - Transforming productivity with intelligent organization
 

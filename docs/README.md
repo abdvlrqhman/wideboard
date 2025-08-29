@@ -2,7 +2,7 @@
 
 Welcome to the Wideboard documentation. This is a **Spacie Original Project** - an AI-powered productivity dashboard.
 
-![Wideboard Hero](https://i.ibb.co/nsXrzMkL/image.png)
+![Wideboard Hero](https://raw.githubusercontent.com/abdvlrqhman/wideboard/refs/heads/main/assets/images/image.png)
 
 > **A Spacie Original Project** - Where productivity meets intelligence
 

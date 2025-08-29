@@ -2,7 +2,7 @@
 
 A guide for developers who want to contribute to Wideboard or understand the codebase.
 
-![Wideboard Hero](https://i.ibb.co/nsXrzMkL/image.png)
+![Wideboard Hero](https://raw.githubusercontent.com/abdvlrqhman/wideboard/refs/heads/main/assets/images/image.png)
 
 > **A Spacie Original Project** - Build the future of productivity
 

@@ -2,7 +2,7 @@
 
 A comprehensive guide to using Wideboard - your AI-powered productivity dashboard.
 
-![Wideboard Hero](https://i.ibb.co/nsXrzMkL/image.png)
+![Wideboard Hero](https://raw.githubusercontent.com/abdvlrqhman/wideboard/refs/heads/main/assets/images/image.png)
 
 > **A Spacie Original Project** - Master your productivity
 
