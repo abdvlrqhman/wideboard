@@ -156,22 +156,11 @@ Try the demo instantly: [wideboard.pro](https://wideboard.pro)
 - **Productivity tips** and best practices
 - **Troubleshooting** guide
 
-### 🛠️ [Development Guide](./docs/DEVELOPMENT.md)
-- **Developer guide** for contributors
-- **Technical architecture** and code structure
-- **Development setup** and guidelines
-- **API integration** and component development
-
 ### 🚀 [Deployment Guide](./docs/DEPLOYMENT.md)
 - **Production deployment** guide
 - **Vercel, Docker**, and other platforms
 - **Environment configuration**
 - **Performance optimization** and security
-
-### 📋 [Documentation Index](./docs/INDEX.md)
-- **Quick navigation** guide
-- **File descriptions** and overview
-- **Getting started** path
 
 ---
 
