@@ -191,7 +191,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔄 Changelog
 
-### v2.0.0 (Latest)
+### v2.1.0 (Latest)
+- 🌍 **Multi-language Support**: Added Arabic, Spanish, French, German support for all AI artifacts
+- 📝 **Enhanced Markdown Rendering**: Complete overhaul with proper formatting for headers, bold, italic, lists, and code blocks
+- 🎨 **Improved UI/UX**: Better visual formatting and typography for AI responses
+- 📱 **New Artifacts**: Added Social Media Manager and Blog Post Writer
+- 🔧 **Better Form Controls**: Added checkbox support and enhanced input validation
+- 🎯 **Language Enforcement**: Stronger AI prompts to ensure proper language compliance
+- 📊 **Enhanced Results Display**: Better input summaries and full-view dialogs for all artifact types
+
+### v2.0.0
 - ✨ Complete data storage system overhaul
 - 🔐 Encrypted backup/restore functionality
 - 🎯 Enhanced widget persistence
