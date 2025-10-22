@@ -191,7 +191,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔄 Changelog
 
-### v2.1.0 (Latest)
+### v2.2.0 (Latest)
+- 🤖 **AI Assistant "Hamasa"**: Intelligent floating chat assistant with real-time context awareness
+- 💬 **Chat History Management**: Complete conversation history with search, filter, and export functionality
+- 🔄 **Real-time Context Updates**: Smart project and task awareness with 2-second update intervals
+- 📊 **40 Message Limit**: Automatic conversation reset for optimal AI performance
+- 🎯 **Smart Project Task Creation**: Intelligent project name matching and ID resolution
+- 🛠️ **Enhanced Action Execution**: Improved task, project, and pomodoro timer integration
+- 📱 **Chat History UI**: Beautiful conversation viewer with message formatting and action tracking
+- 🔧 **Gemini API Support**: Full integration with Google Gemini models alongside OpenAI
+- ⚡ **Immediate Context Refresh**: Real-time updates after project creation and task management
+- 🎨 **Improved AI Responses**: Better markdown rendering and action execution feedback
+
+### v2.1.0
 - 🌍 **Multi-language Support**: Added Arabic, Spanish, French, German support for all AI artifacts
 - 📝 **Enhanced Markdown Rendering**: Complete overhaul with proper formatting for headers, bold, italic, lists, and code blocks
 - 🎨 **Improved UI/UX**: Better visual formatting and typography for AI responses
